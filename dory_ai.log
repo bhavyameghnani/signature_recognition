@@ -1,0 +1,14 @@
+2018-11-30 16:44:37,259:: WARNING:: From <ipython-input-23-dd02c8ee4fa1>:123: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2018-11-30 16:44:37,417:: WARNING:: From <ipython-input-23-dd02c8ee4fa1>:41: calling softmax (from tensorflow.python.ops.nn_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+2018-11-30 17:01:03,155:: WARNING:: From <ipython-input-23-dd02c8ee4fa1>:123: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2018-11-30 17:01:03,239:: WARNING:: From <ipython-input-23-dd02c8ee4fa1>:41: calling softmax (from tensorflow.python.ops.nn_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+2018-11-30 17:03:04,928:: INFO:: ModelBase::Saving model ...
+2018-11-30 17:03:06,911:: INFO:: ModelBase::Model successfully saved here: ./outputs/checkpoints/c1s_9_c1n_256_c2s_6_c2n_64_c2d_0.7_c1vl_16_c1s_5_c1nf_16_c2vl_32_lr_0.0001_rs_1--TrafficSign--1543577458.0682905
