@@ -9,9 +9,9 @@ cd signature_recognition
 Here you will see a couple of directories and a couple of python files and json files.
 The folders contain the dataset and are named as follows
 
-Dataset - This folder contains four dataset folder in which the model is trained on the dataset1
-TestDriveData1 - Contains a set of 10 test images
-TestDriveData2 - Contains a set of 10 test images
+> Dataset - This folder contains four dataset folder in which the model is trained on the dataset1
+> TestDriveData1 - Contains a set of 10 test images
+> TestDriveData2 - Contains a set of 10 test images
 
 The capsnet.ipnyb contains the code which is to runned
 On running code a separate folder called as the output folder will be created and in this folder checkpoints and other tensorboard requirements will be created
