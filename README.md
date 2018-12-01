@@ -26,10 +26,12 @@ One can simply open the ipython notebook.
 Its is suggestible to use the free GPU and TPU provided by google - Google Colaboratory.
 Since the model consist of multiplication of rank 4 matrices, it would be suggestible to use a GPU if thr code is run on a local computer.
 # Running the Google Colab
+FOr running the code one can simply upload the code or one can mount a drive and the run the code
+
 Here one needs to take care of the directory structure while runing the code , in order to do so one can simply use the following commands
 ```
 cd /<desired-directory>
 ls
 ```
-on reachindd the directory in which the .ipynb file is available
-one can simply run the code
+on reaching the directory in which the .ipynb file is available
+one can simply run the code , the code takes the care of the loading of other directories
