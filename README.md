@@ -1,7 +1,7 @@
 # Signature Recognition
 One can clone the repositories using the following commands
 ```
-git clone 
+git clone https://github.com/parth-dedhia/signature_recognition.git
 cd signature_recognition
 ```
 #
