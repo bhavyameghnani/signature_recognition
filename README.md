@@ -1,5 +1,4 @@
 # Signature Recognition
-===============
 One can clone the repositories using the following commands
 '''
 git clone 
