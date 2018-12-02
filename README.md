@@ -3,6 +3,17 @@
 * The entire running of the code is described in this video - https://youtu.be/72gr15LSENw
 * More details of the video are described futher
 
+# System requirements
+* Python 3
+* Numpy 1.14.6
+* Tensorflow 1.12.0
+* Sklearn 0.18.1
+* Matplotlib 2.1.2
+* Opencv 3.4.4
+* Imutils 0.5.1
+* Keras 2.2.4
+* PIL 4.0.0
+
 # Dataset
 
 * Dataset - This folder contains the genuine images of 12 users. 10per each. which is used for training the model. These images are similar to the drive link shared by the Axis Bank AI Challenge Competetion but few ids are corrected and modified as they were wrong previously. We highly recommend you to use these datasets only as you may find the Ids issues on drive link shared on Hackerearth page which was recokned as false by most of the participants. (check the discussion page for full proof)
@@ -51,17 +62,6 @@ cd signature_recognition
 3) One can simply run all the code blocks
 4) The test images are also provided in the repository but incase if anyone  wants to add new images then one can simply add them in one of the two test directories and run the last few blocks again
 5) The otherfiles should not be deleted as they are essential for the code to run
-
-# System requirements
-Python 3
-Numpy 1.14.6
-Tensorflow 1.12.0
-Sklearn 0.18.1
-Matplotlib 2.1.2
-Opencv 3.4.4
-Imutils 0.5.1
-Keras 2.2.4
-PIL 4.0.0
 
 # Regex 
 FILE STRUCTURE:
