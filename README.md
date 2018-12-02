@@ -85,6 +85,6 @@ for example: 00602023 is an image of signature of person number 023 done by pers
 
 # For Further Queries -
  Mail us on -
- meghnani.bhavya@gmail.com
- kbgandhi12@gmail.com
- prdedhia1998@gmail.com
+ meghnani.bhavya@gmail.com ,
+ kbgandhi12@gmail.com ,
+ prdedhia1998@gmail.com .
