@@ -52,3 +52,4 @@ cd signature_recognition
 * For image recognition , traditionally various flavors of CNN were used , but the recent developments bought by Geoffery Hinton , by his state of the art work in Capsule Network seemed to be more promising in the field of computer vision.
 * The complexity of the model is very high , both in terms of time and memory
 * The graph shown below , was constructed by the model above.
+![alt text](https://github.com/parth-dedhia/signature_recognition/blob/master/Images/graph.png)
