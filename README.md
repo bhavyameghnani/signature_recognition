@@ -48,6 +48,8 @@ d) utils.py(text/plain).
 8) Now simply run all the blocks. 
 9) The model will train itself till 2700 epochs the stop and run the remaining blocks
 10) Check out the value of softmax value of genuine and forged signature that will help to determine the validation capability of the model.
+11) If one wants to run the test part of the code , one simply download it the prestored checkpoints from here - https://drive.google.com/drive/folders/1uuMwFN0QwnIiHocE1ropGZq3p6Jz9nKj?usp=sharing
+12) The downloaded directory is needed to be put in the same directory as that of the dataset above
 
 (Feel free to change the paths of dataset and the required .py files in the code , depending on where you store them.)
 
@@ -62,6 +64,9 @@ cd signature_recognition
 3) One can simply run all the code blocks
 4) The test images are also provided in the repository but incase if anyone  wants to add new images then one can simply add them in one of the two test directories and run the last few blocks again
 5) The otherfiles should not be deleted as they are essential for the code to run
+6) If one wants to run the test part of the code , one simply download it the prestored checkpoints from here - https://drive.google.com/drive/folders/1uuMwFN0QwnIiHocE1ropGZq3p6Jz9nKj?usp=sharing
+7) The downloaded directory is needed to be put in the same directory as that of the dataset above
+
 
 # Regex 
 FILE STRUCTURE:
