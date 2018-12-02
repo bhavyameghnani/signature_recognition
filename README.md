@@ -1,5 +1,8 @@
 # Signature Recognition
 
+* The entire running of the code is described in this video - https://youtu.be/72gr15LSENw
+* More details of the video are described futher
+
 # Dataset
 
 * Dataset - This folder contains the genuine images of 12 users. 10per each. which is used for training the model. These images are similar to the drive link shared by the Axis Bank AI Challenge Competetion but few ids are corrected and modified as they were wrong previously.
